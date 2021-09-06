@@ -23,6 +23,8 @@
 
 ## My Skill Set  
 
+</td><td valign="top" width="33%">
+
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
